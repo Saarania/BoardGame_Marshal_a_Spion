@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" build-on-make="true" name="MarshalFinal:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/MarshalFinal_jar</output-path>
+    <root id="archive" name="MarshalFinal.jar">
+      <element id="module-output" name="MarshalFinal" />
+    </root>
+  </artifact>
+</component>
